@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="collegett.ru" id="b5b3509c-324c-4231-a772-b9ce7a637f09" port="22" nameFormat="DESCRIPTIVE" username="u1539870" />
+    </configs>
+  </component>
+</project>

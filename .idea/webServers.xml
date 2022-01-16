@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="513ff05b-5381-4dc9-9fb8-41e77c8b252b" name="CollegeTT API" url="http://api.collegett.ru/">
+        <fileTransfer rootFolder="/var/www/u1539870/data/www/api.collegett.ru/" accessType="SFTP" host="collegett.ru" port="22" sshConfigId="b5b3509c-324c-4231-a772-b9ce7a637f09" sshConfig="u1539870@collegett.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
